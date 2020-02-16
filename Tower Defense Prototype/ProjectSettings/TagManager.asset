@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grunt
+  - Non-buildable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Non-buildable
+  - Unit
+  - Projectile
+  - Base
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 993913251
+    locked: 0
+  - name: Mid
+    uniqueID: 101930545
+    locked: 0
+  - name: Foreground
+    uniqueID: 207693869
+    locked: 0
+  - name: Above All
+    uniqueID: 4007857185
+    locked: 0
+  - name: 
+    uniqueID: 3838624891
+    locked: 0
